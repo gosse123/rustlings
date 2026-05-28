@@ -4,9 +4,6 @@ use crate::exercise_td::cinq_top::cinq_stop;
 mod exercise_td;
 mod utils;
 
-fn main(){
-
-   cinq_stop();
-    
-
- }
+fn main() {
+    cinq_stop();
+}
